@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+label{
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+}

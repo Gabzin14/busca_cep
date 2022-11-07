@@ -16,7 +16,7 @@ function buscaCep(valor) {
             document.getElementById ('bairro').value = "..."
             document.getElementById ('localidade').value = "..."
             var script = document.createElement ('script')
-            script.src = 'https://viacep.com.br/ws/${cep}/json/?callback=retornavalores'
+            script.src = `https://viacep.com.br/ws/${cep}/json/?callback=retornavalores`
             document.body.appendChild(script)
           }else{
               alert("Formato CEP Inválido")

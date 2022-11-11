@@ -1,2 +1,2 @@
 # Projeto desenvolvido em sala de aula
-### Com intuito de procurar CEP's locais ou de outros lugares que possuem CEP
+### O intuito do projeto é identificar o local onde está localizado o CEP digitado.
